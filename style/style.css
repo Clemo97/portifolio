@@ -329,7 +329,7 @@ nav ul li a:hover::after {
   height: 207px;
   width: 100%;
   padding: 10px;
-  background: url("../assets/img/portfolio.png");
+  background: url("..//portfolio.png");
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
@@ -363,7 +363,7 @@ nav ul li a:hover::after {
   height: 207px;
   width: 100%;
   padding: 10px;
-  background: url("../assets/img/masomo_popote.png");
+  background: url("../assets/img/counties.png");
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
@@ -374,7 +374,7 @@ nav ul li a:hover::after {
   height: 207px;
   width: 100%;
   padding: 10px;
-  background: url("../assets/img/pata_daktari");
+  background: url("../assets/img/users-api.png");
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
